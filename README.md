@@ -36,5 +36,5 @@ This module relies on standard Python libraries scipy.stats, pandas, and numpy
 
 ## License 
 
-This project is licensed under the MIT License - see the LICENSE file for details 
+This project is licensed under the MIT License - see the LICENSE file [MIT License](https://github.com/Pythonicuniverse/ManojMorais_Statistics/blob/647daf54f38ea75f6b534c5090b3c4f5556e7d10/LICENSE) for details 
 
