@@ -36,5 +36,5 @@ This module relies on standard Python libraries scipy.stats, pandas, and numpy
 
 ## License 
 
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the LICENSE file for details 
 
