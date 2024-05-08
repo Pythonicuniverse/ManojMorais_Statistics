@@ -21,6 +21,8 @@ Suppose, you want to see whether there exists significant differences in mean ma
 2 columns: Gender ( Male: coded as 0,and Female: coded as 1) and Marks
 
 load excel file in python using pandas 
+data = pd.read_excel('Dwnloads/Student.xlsx', 'Sheet1) # For Mac
+data=pd.read_excel('C:/Downloads/Student.xlsx', 'Sheet1') # for Windows
 
 from ManojMorais_Statistics import Ttest_2sample
 
